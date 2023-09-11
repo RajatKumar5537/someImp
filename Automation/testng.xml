@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.rajat.testscript.CustomerModule"/>
+      <class name=".customerModule"/>
+      <class name="com.actitime.testscript.DemoScreenshot"/>
+      <class name="com.actitime.pom.TestMethodCls"/>
+      <class name="com.rajatpracticeTestNG.testscript.CustomerModuleSample"/>
+      <class name="com.actitime.testscript.ProjectTask"/>
+      <class name="com.actitimeProject.testscript.CustomerModule"/>
+      <class name="com.rajatpracticeTestNG.testscript.DemoAssertion"/>
+      <class name="com.actitime.testscript.CustomerModule12"/>
+      <class name="com.actitime.testscript.CustomerModule1"/>
+      <class name="com.rajatpracticeTestNG.testscript.ListenerCustomerModule"/>
+      <class name="com.rajat.testscript.DemoAssertion"/>
+      <class name="com.actitime.testscript.TestNgDemo"/>
+      <class name="com.rajatpracticeTestNG.testscript.DemoScreenshot"/>
+      <class name="com.actitime.testscript.ProjectModule"/>
+      <class name="com.actitime.testscript.DemoAsseration"/>
+      <class name="com.rajatpracticeTestNG.testscript.CustomerModule"/>
+      <class name="com.rajatpracticeTestNG.testscript.SoftAssertDemo"/>
+      <class name="com.actitime.testscript.CreateCustomer2"/>
+      <class name="com.swarna.testscript.CustomerModule"/>
+      <class name="com.actitime.testscript.CustomerModule"/>
+      <class name=".p2"/>
+      <class name="com.rajatpracticeTestNG.testscript.createCustomer2"/>
+      <class name="com.actitime.testscript.Demotest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
